@@ -1,0 +1,5 @@
+en:
+  activerecord:
+    errors:
+      messages:
+        unchanged: "can't be changed"

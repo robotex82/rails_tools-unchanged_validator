@@ -1,0 +1,3 @@
+= UnchangedValidator for Rails
+
+Docs coming soon...

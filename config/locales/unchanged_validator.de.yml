@@ -1,0 +1,5 @@
+de:
+  activerecord:
+    errors:
+      messages:
+        unchanged: "darf nicht geändert werden"
